@@ -1,5 +1,5 @@
 <?php include 'home.php'; ?>
-<!-- <?php include 'header.php'; ?> -->
+<?php include 'header.php'; ?>
 
 
 <div class="wrapper">
@@ -63,7 +63,7 @@
 
         .diagnose-btn {
             font-size: 0.9rem;
-            padding: 8px;
+            padding: 8px; /* Mengurangi ukuran teks di mobile */
         }
     }
 </style>
